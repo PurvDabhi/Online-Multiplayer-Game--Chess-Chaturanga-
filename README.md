@@ -123,9 +123,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Meet the Creator
+## 👨‍💻 Meet the Creators
 
 **Aarsh24**  
+**PurvDabhi**  
 Crafted with passion for board games, web technology, and a pinch of nostalgia!  
 Feel free to reach out via [GitHub Issues](https://github.com/Aarsh24/Online-Multiplayer-Game--Chess-Chaturanga-/issues) for suggestions or feedback.
 
