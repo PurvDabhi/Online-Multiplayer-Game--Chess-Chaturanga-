@@ -54,7 +54,6 @@ Install both server and client dependencies (if using a separate frontend and ba
 
 ```bash
 # For the backend (server)
-cd server
 npm install
 
 # For the frontend (client)
