@@ -76,7 +76,6 @@ PORT=5000
 
 ```bash
 # Start backend server
-cd server
 npm start
 
 # In a new terminal, start frontend
